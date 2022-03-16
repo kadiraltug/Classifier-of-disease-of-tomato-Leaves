@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/57407135/158656372-029c68e9-def6-474e-
 
 
 
-If you want to train the model yourself, you need to click the link below. You need to extract downloaded file to training folder.Then feel free to train.
+If you want to train the model yourself with my dataset, you need to click the link below and download dataset. You need to extract the downloaded file into the training folder.Then feel free to train.
 https://we.tl/t-PuccnsbWDk
